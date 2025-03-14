@@ -13,5 +13,4 @@ It works in any RHEL 9 based distro. Support for more, comming soon.
 
 ### Repository setup:
 ```bash
-sudo rpm --import https://subsman.github.io/RPM-GPG-KEY && \
-sudo dnf install https://subsman.github.io/el9/subsman-release.rpm
+sudo dnf install https://subsman.com/repos/el9/x86_64/subsman-release-1.0-1.el9.x86_64.rpm
